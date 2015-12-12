@@ -1,3 +1,5 @@
+Note:This program only works in Borland TurboC++ version 3.0
+
 This school management program is in C++ programming language and uses concepts like class and graphic modules of Turbo C++.
 Its source code makes use of following header files-
 1.	<fstream.h>
@@ -18,6 +20,6 @@ Also it implements graphics and dos header file to create a GUI which is attract
 5.	Appoint new teacher
 6.	View teacher info
 7.	View class info
-8.	Edit student’s academic record
+8.	Edit studentâ€™s academic record
 
-Necessary warnings are shown where required. Also it implements graphics header file to create a GUI which is attractive and user friendly. Necessary warnings are shown wherever required.
+STUDENT & TEACHER are binary data files storing credentials & other info. ACC IDs text file provides few credentials to test the program. Necessary warnings are shown where required. Also it implements graphics header file to create a GUI which is attractive and user friendly. Necessary warnings are shown wherever required.
